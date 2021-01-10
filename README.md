@@ -1,9 +1,16 @@
 ### Hi there 👋
 
-<!--
-**parshalchitrakar/parshalchitrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Parshal Chitrakar Currently Pursuing B.Tech,ECE in my final year at SRM University AP.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Development
+- 👯 I’m looking to collaborate on ML development
+- 🤔 I’m looking for  open source collaboration
+
+
+
+![parshal's github stats](https://github-readme-stats.vercel.app/api?username=parshalchitrakar&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parshalchitrakar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
