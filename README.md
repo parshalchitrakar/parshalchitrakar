@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Parshal Chitrakar Currently Pursuing B.Tech,ECE in my final year at SRM University AP.
+### I'm Parshal Chitrakar Currently Pursuing my Master degree in Information Systems at Murray State University and I am an Electronic and Communication engineer.
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on ML development
