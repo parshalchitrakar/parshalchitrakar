@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Parshal Chitrakar Currently Pursuing my Master degree in Information Systems at Murray State University and I am an Electronic and Communication engineer.
+### I'm Parshal Chitrakar and I am an Electronic and Communication engineer.
 
 - 🔭 I’m currently working on Web Development
 - 👯 I’m looking to collaborate on ML development
